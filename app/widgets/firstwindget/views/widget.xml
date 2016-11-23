@@ -1,0 +1,8 @@
+<Alloy>
+	
+	<View id="win">
+		<!-- <Label>I'm the default widget</Label> -->
+		<Button id="back">BACK</Button>
+		<Label id="namewin">HOME</Label>
+	</View>
+</Alloy>

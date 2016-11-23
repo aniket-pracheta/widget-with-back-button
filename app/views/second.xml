@@ -1,0 +1,8 @@
+<Alloy>
+	<Window id="window2" title="second">
+	<Widget src="firstwindget" id="secondwidget"></Widget>
+	<View class="container">
+		<Label>I am second window</Label>
+	</View>
+	</Window>
+</Alloy>

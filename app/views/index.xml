@@ -1,0 +1,6 @@
+<Alloy>
+	<Window class="container">
+		<Widget src="firstwindget" id="one_windget"></Widget>
+		<Label id="label" onClick="doClick">Hello, World</Label>
+	</Window>
+</Alloy>

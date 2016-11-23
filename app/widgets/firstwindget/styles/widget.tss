@@ -1,0 +1,21 @@
+"Label": {
+	color: '#000',
+	font: {
+		fontSize: 18,
+		fontWeight: 'bold'
+	},
+	height: Ti.UI.SIZE,
+	width: Ti.UI.SIZE
+},
+"#win":{
+	top:0,  
+	backgroundColor:"cyan",
+   height:"10%",
+   width:Titanium.UI.FILL,
+},
+"#back":{
+	//visible:"false",
+	left:"20",
+	borderColor:"red",
+	backgroundColor:"white",	
+}
